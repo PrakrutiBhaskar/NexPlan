@@ -24,8 +24,3 @@
 
 ---
 
-## 📂 File Structure
-
-NexPlan/
-├── index.html
-└── README.md
